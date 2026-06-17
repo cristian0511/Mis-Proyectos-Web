@@ -1,0 +1,22 @@
+/* assets/css/estilos.css */
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-brand {
+    font-weight: 700;
+}
+.img-tabla {
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.img-modal {
+    max-height: 240px;
+    object-fit: contain;
+    width: 100%;
+}
+.fs-7 {
+    font-size: 0.85rem;
+}
